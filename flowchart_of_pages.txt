@@ -1,0 +1,87 @@
+Flowchart of Page Connections
+
+Landing Page
+
+Entry point for users
+
+Users can navigate to:
+
+Lend Assets Page (via "Lend Assets" button)
+
+Borrow Assets Page (via "Borrow Assets" button)
+
+Wallet Connection (via "Connect Wallet" button)
+
+Sign In / Log In (via respective buttons)
+
+Exit Page (via "Exit Page" button)
+
+Lend Assets Page
+
+Users can:
+
+Enter deposit amount
+
+View estimated earnings
+
+Deposit or withdraw assets
+
+Connect wallet
+
+Navigation options:
+
+Return to Landing Page
+
+Proceed to Wallet Connection
+
+Borrow Assets Page
+
+Users can:
+
+Enter loan amount
+
+View required collateral and interest
+
+Borrow assets
+
+Connect wallet
+
+Navigation options:
+
+Return to Landing Page
+
+Proceed to Wallet Connection
+
+Wallet Connection
+
+Can be accessed from any page
+
+Once connected, users can:
+
+Deposit, withdraw, borrow assets
+
+View transactions
+
+Navigate to other pages
+
+Sign In / Log In Pages
+
+Users authenticate themselves
+
+Redirects back to Landing Page upon success
+
+Exit Page
+
+Users can leave the platform from here
+
+Flow Summary:
+
+The Landing Page serves as the central hub.
+
+Users navigate to Lend or Borrow Pages based on their needs.
+
+Wallet connection is required for transactions.
+
+Authentication allows access to full functionality.
+
+Users can return to the Landing Page at any time or exit the platform.

@@ -1,0 +1,42 @@
+{
+  "name": "icp-lending-borrowing-platform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "setup": "npm install && dfx start --background",
+    "start": "vite",
+    "build": "dfx generate && vite build",
+    "deploy": "dfx deploy",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@dfinity/agent": "^0.20.2",
+    "@dfinity/auth-client": "^0.20.2",
+    "@dfinity/candid": "^0.20.2",
+    "@dfinity/identity-secp256k1": "^2.4.0",
+    "@dfinity/principal": "^0.20.2",
+    "@radix-ui/react-slot": "^1.0.2",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "framer-motion": "^10.18.0",
+    "lucide-react": "^0.309.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.2",
+    "sonner": "^2.0.2",
+    "tailwind-merge": "^2.2.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.14",
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.11",
+    "vitest": "^1.2.1"
+  }
+}
